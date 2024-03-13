@@ -205,5 +205,5 @@ linked our style sheet to our HTML page and added ids to our HTML elements. We
 then created CSS rules, using hexadecimal color values, for those elements to
 display all the colors on our completed HTML page.
 
-[cheat sheet]: https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf
+[cheat sheet]: https://web.stanford.edu/grogit@github.com:ibrahim-senzia/phase-0-css-rainbow-lab.gitup/csp/cs21/htmlcheatsheet.pdf
 [goth]: https://en.wikipedia.org/wiki/Goth_subculture
